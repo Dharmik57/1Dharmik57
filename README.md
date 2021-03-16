@@ -1,9 +1,8 @@
 ### Hi there, I'm Dharmik 👋
 
 ## I'm a Full-stack Developer!
-- 🔭 I’m currently working on creating a blogging website using reactjs and 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to do some free-lancing work in free time
+- 🔭 I’m currently working on anytype of Web developing work, Contribution, API integration etc.
+- 👯 I’m looking for a contribution project, any start-up project, freelancing work etc.
 
 ### Connect with me:
 
