@@ -6,7 +6,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="vinesh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Dharmik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -39,7 +39,7 @@
 
 <details>
   <summary>:zap: Top Language Stats</summary>
-  <img align="ceenter" alt="Vinesh-z's Top Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmik57&show_icons=true&hide_border=true&theme=radical" />
+  <img align="ceenter" alt="Dharmik's Top Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmik57&show_icons=true&hide_border=true&theme=radical" />
 </details>
 
 
