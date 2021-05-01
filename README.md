@@ -1,6 +1,6 @@
 ### Hi there, I'm Dharmik 👋
 
-## I'm a Full-stack Developer!
+## I'm seeking for full-time Freelancing where I can give you my best.
 - 🔭 I’m currently working on anytype of Web developing work, Contribution, API integration etc.
 - 👯 I’m looking for a contribution project, any start-up project, freelancing work etc.
 
