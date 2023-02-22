@@ -1,6 +1,6 @@
 ### Hi there, I'm Dharmik 👋
 
-## I'm a full stack developer | Project Manager | Software Develope
+## I'm a full stack developer | Project Manager | Software Developer
 
 ### Connect with me:
 
