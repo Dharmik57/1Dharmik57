@@ -5,6 +5,7 @@
 ### Connect with me:
 
 [<img align="left" alt="Dharmik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Dharmik | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 
@@ -153,4 +154,5 @@
 </table>
 
 
-[linkedin]: https://www.linkedin.com/in/dharmik-patel-5928b213b/
+[linkedin]: https://www.linkedin.com/in/dharmik-valani/
+[twitter]: https://twitter.com/dharmik_valani
